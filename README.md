@@ -1,6 +1,6 @@
 # Random-Password-Generator
 
-It is a C++ program to generate random password which have the following features:-
+It is a program to generate random password which have the following features:-
 
 1)password should consist of
 
